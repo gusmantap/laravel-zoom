@@ -1,0 +1,19 @@
+{
+    "name": "gusmantap/laravel-zoom",
+    "type": "library",
+    "require": {
+        "php": "7.4",
+        "laravel/framework": "^8.0\u001b[D\u001b[D\u001b[D"
+    },
+    "autoload": {
+        "psr-4": {
+            "Gusmantap\\LaravelZoom\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gusmantap",
+            "email": "bagus.mantonafi@gmail.ocm"
+        }
+    ]
+}
